@@ -1,0 +1,19 @@
+.custom-avatar img {
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(10, 10, 10, 0.3);
+    float: left !important;   
+    width: 4rem;
+    height: 4rem;
+  }
+  
+
+  .resultCard div{
+    background-color:rgba(240, 116, 220, 0.7)
+  }
+  
+  .icon-lg {
+    font-size: 7rem; 
+    color: white;
+    float: right !important;
+    
+  }
